@@ -47,3 +47,5 @@ gems
 specifications
 Gemfile.lock
 .rvmrc
+
+/spec/reports/
